@@ -5,6 +5,7 @@
 
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
+* [Lewis Mutuma](https://github.com/MutumaMutuma)
 
 
 ## License
